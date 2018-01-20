@@ -3,8 +3,10 @@
 Fusion of object tracking methods and nuclear directionality.
 
 ### Installation
-See docs/installation.txt for more detailed instructions
+See installation.txt for more detailed instructions
 
 ### Data
 
 ### Authors
+* Elliot Greenlee | egreenle@vols.utk.edu
+* Carl Britt | cbritt2@vols.utk.edu
